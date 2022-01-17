@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mwhitea
-- 👀 I’m interested in applied D.S in finance and civil engineering; smart contracts, and Cryptocurrencies
+- 👀 The topics I'm interested about are Data Science, Defi, and civil engineering.
 - 🌱 I’m currently learning Data Science, Blockchain, and finance.
 - 💞️ I’m looking to collaborate on any project related to these topics
 - 📫 How to reach me at pwhite.ds@hotmail.com
