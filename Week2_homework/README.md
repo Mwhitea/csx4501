@@ -1,5 +1,38 @@
 ***_Assignment 02 - make a Python notebook to analyze CORGIS data_***
 
+
+**ENERGY**
+
+United States Government reports on consumption, production, expenditures, and prices of various fuel sources. This data comes from the US Energy Information Administration, which has historical data from 1960 to 2019. Information was not always available, in which case 0 was reported instead. In some cases, very tiny values were rounded down to zero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Step 1*:  Get another dataset of interest to you (besides Classics) from The Collection of Really Great, Interesting, Situated Datasets (Links to an external site.)
 
 You may choose either the Python, CSV, or JSON data
