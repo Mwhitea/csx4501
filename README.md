@@ -1,3 +1,3 @@
-***__ CSX4501 __***
+***CSX 4501***
 
 UCLA extension school homework and practice
