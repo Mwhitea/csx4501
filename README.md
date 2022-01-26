@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Mwhitea
-- 👀 The topics I'm interested about are Data Science, Defi, and Civil Engineering.
-- 🌱 I’m currently learning Data Science and Blockchain
-- 💞️ I’m looking to collaborate on any project related to these topics
-- 📫 How to reach me at pwhite.ds@hotmail.com
+
