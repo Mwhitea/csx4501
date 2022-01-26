@@ -1,4 +1,4 @@
-**Assignment 02 - make a Python notebook to analyze CORGIS data**
+***Assignment 02 - make a Python notebook to analyze CORGIS data***
 
 Step 1:  Get another dataset of interest to you (besides Classics) from The Collection of Really Great, Interesting, Situated Datasets (Links to an external site.)
 
