@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mwhitea/csx4501.git/HEAD)
+
+
 ***_Assignment 02 - make a Python notebook to analyze CORGIS data_***
 
 
